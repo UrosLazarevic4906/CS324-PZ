@@ -1,3 +1,149 @@
-Level,Question,CorrectAnswer,IncorrectAnswer1,IncorrectAnswer2,IncorrectAnswer3
-1,What is the capital of France?,Paris,Berlin,Madrid,Rome
-2,What is 5+7?,12,10,13,14
+Level,Question,CorrectAnswer,Incorrect1,Incorrect2,Incorrect3
+1,What is the capital of France?,Paris,London,Berlin,Madrid
+1,Which planet is closest to the Sun?,Mercury,Venus,Earth,Mars
+1,What is the largest ocean on Earth?,Pacific,Atlantic,Indian,Arctic
+1,Who wrote 'Romeo and Juliet'?,William Shakespeare,Charles Dickens,Jane Austen,Mark Twain
+1,What is the boiling point of water in Celsius?,100,90,110,120
+1,What is the square root of 64?,8,6,7,9
+1,Which animal is known as the 'King of the Jungle'?,Lion,Tiger,Elephant,Giraffe
+1,What is the smallest country in the world?,Vatican City,Monaco,San Marino,Liechtenstein
+1,Who painted the Mona Lisa?,Leonardo da Vinci,Pablo Picasso,Michelangelo,Van Gogh
+1,What is the currency of Japan?,Yen,Won,Renminbi,Won
+1,Which country is known as the Land of the Rising Sun?,Japan,China,Korea,Vietnam
+1,What is the capital of the United States?,Washington D.C.,New York,Los Angeles,Chicago
+1,Who was the first man to walk on the moon?,Neil Armstrong,Yuri Gagarin,Buzz Aldrin,John Glenn
+1,What is the largest planet in our solar system?,Jupiter,Saturn,Earth,Uranus
+1,In which continent is Egypt located?,Africa,Asia,Europe,South America
+2,Who was the first president of the United States?,George Washington,Thomas Jefferson,Abraham Lincoln,John Adams
+2,What is the chemical symbol for gold?,Au,Ag,Fe,Cu
+2,Which gas do plants absorb from the atmosphere for photosynthesis?,Carbon dioxide,Hydrogen,Oxygen,Nitrogen
+2,Which planet is known as the Red Planet?,Mars,Venus,Jupiter,Saturn
+2,In which country did the Olympic Games originate?,Greece,Rome,Italy,France
+2,What is the largest desert in the world?,Sahara,Arctic,Australian,Arabian
+2,What is the tallest mountain on Earth?,Mount Everest,K2,Kangchenjunga,Mount Fuji
+2,What is the smallest bone in the human body?,Stapes,Scaphoid,Patella,Femur
+2,What is the longest river in the world?,Amazon,Nile,Yangtze,Mississippi
+2,What is the main ingredient in guacamole?,Avocado,Tomato,Onion,Garlic
+2,What year did World War II end?,1945,1939,1918,1960
+2,Which of these is the largest animal on Earth?,Blue Whale,Elephant,Giraffe,Hippopotamus
+2,What is the capital of Australia?,Canberra,Sydney,Melbourne,Brisbane
+2,Which scientist developed the theory of relativity?,Albert Einstein,Isaac Newton,Galileo Galileo,Stephen Hawking
+2,What is the primary language spoken in Brazil?,Portuguese,Spanish,French,English
+3,What is the currency of the United Kingdom?,Pound,Sterling,Euro,Franc
+3,What element has the atomic number 1?,Hydrogen,Oxygen,Carbon,Helium
+3,Who is known as the father of modern physics?,Albert Einstein,Isaac Newton,Galileo,Marie Curie
+3,What is the largest country in the world by land area?,Russia,Canada,United States,China
+3,What is the chemical symbol for water?,H2O,CO2,NaCl,O2
+3,Which famous scientist invented the light bulb?,Thomas Edison,Nikola Tesla,Alexander Graham Bell,Marie Curie
+3,What is the main ingredient in sushi?,Rice,Seaweed,Salmon,Tuna
+3,Which city is the capital of Canada?,Ottawa,Toronto,Vancouver,Montreal
+3,What is the longest wall in the world?,Great Wall of China,Berlin Wall,Wailing Wall,Hadrian's Wall
+3,Who invented the telephone?,Alexander Graham Bell,Thomas Edison,Nikola Tesla,Michael Faraday
+3,What is the national sport of Japan?,Sumo,Baseball,Football,Hockey
+3,What is the largest island in the world?,Greenland,Australia,New Guinea,Borneo
+3,What is the largest country in Africa?,Algeria,Nigeria,South Africa,Egypt
+3,What is the capital of Italy?,Rome,Venice,Florence,Milan
+3,Who was the first woman to win a Nobel Prize?,Marie Curie,Rosalind Franklin,Lise Meitner,Jane Goodall
+4,What is the smallest planet in our solar system?,Mercury,Venus,Earth,Mars
+4,Which planet is known for its rings?,Saturn,Jupiter,Uranus,Neptune
+4,Who painted the Sistine Chapel?,Michelangelo,Leonardo da Vinci,Raphael,Van Gogh
+4,What is the largest city in the world by population?,Tokyo,New York,Shanghai,London
+4,Which country is famous for the Great Barrier Reef?,Australia,South Africa,United States,Brazil
+4,Which famous historical figure said 'I think, therefore I am'?,René Descartes,Socrates,Aristotle,Plato
+4,What is the most common blood type?,O+,A+,B+,AB+
+4,In which year did the Titanic sink?,1912,1905,1939,2000
+4,What is the primary ingredient in pizza dough?,Flour,Sugar,Yeast,Olive oil
+4,What is the tallest building in the world?,Burj Khalifa,Eiffel Tower,Empire State Building,Shanghai Tower
+4,Which country is home to the Great Wall?,China,India,Japan,Korea
+4,What type of animal is a Komodo Dragon?,Lizard,Snake,Turtle,Crocodile
+4,Which is the longest-running TV show in the world?,The Simpsons,Friends,The Office,Seinfeld
+4,What is the tallest waterfall in the world?,Angel Falls,Niagara Falls,Victoria Falls,Yosemite Falls
+5,What is the capital of Spain?,Madrid,Barcelona,Seville,Valencia
+5,What is the main ingredient in hummus?,Chickpeas,Tomatoes,Olives,Garlic
+5,Which element is represented by the symbol 'O'?,Oxygen,Gold,Silver,Iron
+5,What is the largest bird in the world?,Ostrich,Eagle,Turkey,Albatross
+5,What is the official language of Brazil?,Portuguese,Spanish,English,French
+5,Which ocean is the largest?,Pacific,Atlantic,Indian,Arctic
+5,What is the longest river in South America?,Amazon River,Mississippi River,Orinoco River,Parana River
+5,In which country would you find the Eiffel Tower?,France,Italy,Spain,Germany
+5,Which planet has the most moons?,Jupiter,Saturn,Earth,Neptune
+5,Which is the most populated country in the world?,China,India,United States,Indonesia
+5,Who invented the airplane?,Wright brothers,Thomas Edison,Alexander Graham Bell,Nikola Tesla
+5,What is the chemical symbol for silver?,Ag,Au,Fe,Cu
+5,Who is the founder of Microsoft?,Bill Gates,Steve Jobs,Mark Zuckerberg,Larry Page
+5,Which country is known as the land of the kangaroo?,Australia,New Zealand,South Africa,Canada
+5,Which language is the most spoken in the world?,Mandarin,English,Hindi,Spanish
+5,What is the tallest mountain in North America?,Denali,K2,Mount Everest,Matterhorn
+5,Which element has the atomic number 79?,Gold,Silver,Platinum,Iron
+5,What is the smallest continent?,Australia,Europe,Antarctica,Asia
+6,What is the capital of Japan?,Tokyo,Osaka,Kyoto,Hiroshima
+6,What is the name of the famous clock tower in London?,Big Ben,London Eye,Tower Bridge,Westminster Abbey
+6,Which fruit is known as the 'king of fruits'?,Durian,Apple,Orange,Banana
+6,Who wrote 'The Catcher in the Rye'?,J.D. Salinger,George Orwell,Ernest Hemingway,Mark Twain
+6,In what year did the first manned moon landing take place?,1969,1960,1975,1980
+6,What is the currency of the European Union?,Euro,Yen,Franc,Krone
+6,Which country has the longest coastline?,Canada,Australia,United States,India
+6,Who is the author of the Harry Potter series?,J.K. Rowling,George R.R. Martin,J.R.R. Tolkien,C.S. Lewis
+6,What is the capital of Canada?,Ottawa,Montreal,Toronto,Quebec City
+6,Which animal is the largest mammal?,Blue Whale,Elephant,Hippopotamus,Shark
+6,What is the boiling point of water in Fahrenheit?,212,100,0,32
+6,Which country is home to the Great Barrier Reef?,Australia,United States,Brazil,South Africa
+6,Who was the first female Prime Minister of the United Kingdom?,Margaret Thatcher,Angela Merkel,Golda Meir,Sonia Gandhi
+6,What is the currency of Russia?,Ruble,Yen,Euro,Krone
+6,Which language has the most number of speakers worldwide?,Mandarin,English,Spanish,Hindi
+7,Which continent is known as the 'Dark Continent'?,Africa,Asia,Europe,South America
+7,What is the national flower of Japan?,Cherry Blossom,Rose,Lily,Tulip
+7,Who invented the theory of evolution?,Charles Darwin,Isaac Newton,Galileo,Rene Descartes
+7,Which chemical element is known for its symbol 'Na'?,Sodium,Neon,Nitrogen,Nickel
+7,What is the largest moon of Saturn?,Titan,Europa,Io,Moon
+7,Who wrote 'The Odyssey'?,Homer,Virgil,Shakespeare,Dante
+7,Which city is the capital of Italy?,Rome,Venice,Milan,Florence
+7,Who painted 'The Starry Night'?,Vincent van Gogh,Pablo Picasso,Claude Monet,Leonardo da Vinci
+7,Which country is the birthplace of the Olympic Games?,Greece,Italy,France,Germany
+7,What is the most populous city in the world?,Tokyo,New York,Shanghai,Lagos
+7,What is the tallest mountain in Africa?,Mount Kilimanjaro,Kilimanjaro,Mount Kenya,Mount Everest
+7,What is the most popular social media platform?,Facebook,Twitter,Instagram,TikTok
+7,Which is the longest river in Asia?,Yangtze,Nile,Ganges,Amazon
+7,What is the deepest ocean in the world?,Pacific Ocean,Atlantic Ocean,Indian Ocean,Arctic Ocean
+7,Who developed the polio vaccine?,Jonas Salk,Albert Einstein,Marie Curie,Edward Jenner
+8,What is the capital of Russia?,Moscow,St. Petersburg,Novosibirsk,Kazan
+8,What is the capital of Egypt?,Cairo,Alexandria,Luxor,Aswan
+8,What is the name of the longest river in Africa?,Nile,Amazon,Mississippi,Yangtze
+8,Which animal is known for its ability to change color?,Chameleon,Lizard,Snake,Frog
+8,What is the official language of Mexico?,Spanish,English,French,Portuguese
+8,Who is known as the father of modern physics?,Albert Einstein,Isaac Newton,Galileo,Max Planck
+8,What is the currency of South Africa?,Rand,Euro,Dollar,Pound
+8,Which element has the atomic number 6?,Carbon,Oxygen,Hydrogen,Nitrogen
+8,What is the tallest statue in the world?,Statue of Unity,Christ the Redeemer,Liberty Statue,David
+8,What is the most spoken language in the world?,Mandarin,English,Spanish,Hindi
+8,Who painted the 'Last Supper'?,Leonardo da Vinci,Pablo Picasso,Michelangelo,Van Gogh
+8,In which country can you find the Great Wall?,China,Japan,India,Korea
+8,What is the largest desert in the world?,Sahara,Arabian,Arctic,Australian
+8,Which country is known for its tulips?,Netherlands,France,Germany,Italy
+8,Which element is represented by the symbol 'Fe'?,Iron,Gold,Silver,Copper
+9,Which country is known as the Land of the Rising Sun?,Japan,China,South Korea,Thailand
+9,Which country has the most number of pyramids?,Sudan,Egypt,Mexico,Peru
+9,Which type of tree produces acorns?,Oak,Pine,Maple,Birch
+9,What is the largest volcano on Earth?,Mauna Loa,Mount Vesuvius,Mount St. Helens,Mount Fuji
+9,Which city is the capital of Spain?,Madrid,Barcelona,Seville,Valencia
+9,Who wrote 'To Kill a Mockingbird'?,Harper Lee,Mark Twain,F. Scott Fitzgerald,Ernest Hemingway
+9,What is the name of the largest reef in the world?,Great Barrier Reef,Mesoamerican Reef,Bonaire National Marine Park,Coral Sea Reef
+9,Which country has the highest population?,China,India,United States,Indonesia
+9,What is the primary gas in Earth's atmosphere?,Nitrogen,Oxygen,Carbon dioxide,Argon
+9,Which company developed the iPhone?,Apple,Microsoft,Samsung,Nokia
+9,What is the name of the river that runs through Egypt?,Nile,Amazon,Mississippi,Ganges
+9,What is the official language of Canada?,English,French,Spanish,Italian
+9,Which bird is known for its impressive ability to mimic sounds?,Lyrebird,Parrot,Eagle,Peacock
+10,What is the national currency of Japan?,Yen,Won,Renminbi,Ruble
+10,Which of the following animals is a marsupial?,Kangaroo,Lion,Elephant,Giraffe
+10,Who developed the theory of general relativity?,Albert Einstein,Isaac Newton,Galileo,Max Planck
+10,In which city would you find the Eiffel Tower?,Paris,London,New York,Tokyo
+10,Who wrote 'Pride and Prejudice'?,Jane Austen,Charlotte Bronte,Emily Bronte,Virginia Woolf
+10,What is the capital of Argentina?,Buenos Aires,Lima,Caracas,Santiago
+10,What is the largest species of shark?,Whale Shark,Tiger Shark,Great White Shark,Hammerhead Shark
+10,Which city is the capital of the United Kingdom?,London,Manchester,Edinburgh,Belfast
+10,Which planet is known for having a red surface?,Mars,Venus,Earth,Jupiter
+10,What is the capital of Germany?,Berlin,Frankfurt,Munich,Hamburg
+10,What is the tallest building in the United States?,One World Trade Center,Empire State Building,Willis Tower,Freedom Tower
+10,Who painted the 'Mona Lisa'?,Leonardo da Vinci,Michelangelo,Van Gogh,Monet
+10,What is the largest island in the world?,Greenland,Australia,New Guinea,Borneo
