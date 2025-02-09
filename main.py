@@ -16,7 +16,6 @@ def load_questions(filename):
                 print(f"Skipping invalid row: {row}")
     return questions
 
-# game class
 class MillionaireGame:
     def __init__(self, root, questions):
         self.root = root
@@ -28,7 +27,6 @@ class MillionaireGame:
         self.timer = None
         self.setup_ui()
 
-    # ui setup
     def setup_ui(self):
         self.root.title('Who Wants to Be a Millionaire')
         self.root.configure(bg='#282c34')
