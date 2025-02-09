@@ -141,7 +141,6 @@ class MillionaireGame:
             self.root.quit()
 
     def start_timer(self):
-        # Cancel any existing timer if it's running
         if self.timer:
             self.root.after_cancel(self.timer)
 
@@ -177,10 +176,9 @@ class MillionaireGame:
             self.root.quit()
 
     def restart_game(self):
-        # Reset game state
         self.current_level = 1
         self.lifelines = {'50-50': True, 'swap': True, 'jump-the-question': True}
-        self.fifty_fifty_btn.config(state='normal', bg='#282c34')  # Reset lifeline button states
+        self.fifty_fifty_btn.config(state='normal', bg='#282c34')
         self.swap_btn.config(state='normal', bg='#282c34')
         self.jump_the_question_btn.config(state='normal', bg='#282c34')
 
@@ -192,7 +190,6 @@ class MillionaireGame:
             return
         self.lifelines['50-50'] = False
         self.fifty_fifty_btn.config(state='disabled', bg='gray')
-        # Remove two incorrect answers
         incorrect_answers = [ans for ans in self.answers if ans != self.current_question['CorrectAnswer']]
         random.shuffle(incorrect_answers)
         incorrect_to_remove = incorrect_answers[:2]
